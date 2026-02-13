@@ -29,12 +29,20 @@ A terminal-based version of the popular Wordle game with multiple difficulty lev
 ## 💻 Languages & Technologies
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </p>
 
-### Primary Languages:
-- **Python** - Game development, automation, and terminal applications
+### Primary Language:
+- **Java** - Core programming language for applications and projects
+
+### Secondary Languages:
+- **JavaScript, HTML & CSS** - Web design and development
+- **Python** - Game development and automation
 - **Swift** - macOS application development
 
 ---
@@ -42,32 +50,33 @@ A terminal-based version of the popular Wordle game with multiple difficulty lev
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaNoob8157&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaNoob8157&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNoob8157&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNoob8157&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaNoob8157&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DaNoob8157&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🌱 What I'm Learning
 
-- Advanced Python game development
-- macOS app development with Swift
-- Multiplayer networking and real-time gameplay
-- UI/UX design principles
+- Advanced Java programming and software design patterns
+- Modern web development with JavaScript, HTML & CSS
+- Game development with Python
+- UI/UX design principles for web applications
 
 ---
 
 ## 🎯 Current Focus
 
+- ☕ Mastering Java programming fundamentals
+- 🌐 Creating interactive web applications
 - 🎮 Building engaging multiplayer games
-- 📱 Developing macOS utilities and applications
 - 🔧 Learning software engineering best practices
 - 🤝 Contributing to open-source projects
 
