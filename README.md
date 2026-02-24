@@ -98,6 +98,10 @@ A terminal-based version of the popular Wordle game with multiple difficulty lev
   <img src="images/jetbrains.png" alt="jetbrains" width="40" height="40"/>
 </a>
 
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+  <img src="https://developer.apple.com/assets/elements/icons/xcode-s/xcode-s-256x256_2x.png" alt="xcode" width="40" height="40"/>
+</a>
+
 ### Game Engines:
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
