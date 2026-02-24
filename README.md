@@ -63,7 +63,7 @@ A terminal-based version of the popular Wordle game with multiple difficulty lev
 </a>
 
 <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/>
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/021/496/368/small/ios-icon-logo-software-phone-apple-symbol-with-name-black-design-mobile-illustration-free-vector.jpg" alt="ios" width="43" height="35"/>
 </a>
 
 ### DevOps:
@@ -79,7 +79,7 @@ A terminal-based version of the popular Wordle game with multiple difficulty lev
 ### Software:
 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/500px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
 </a>
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -121,14 +121,6 @@ A terminal-based version of the popular Wordle game with multiple difficulty lev
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaNoob8157&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNoob8157&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DaNoob8157&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
