@@ -95,13 +95,13 @@ A terminal-based version of the popular Wordle game with multiple difficulty lev
 </a>
 
 <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.jetbrainsmerchandise.com/media/catalog/product/cache/ecfe99657bcf987295ea6f61f389da7e/i/m/image_resize.png" alt="jetbrains" width="80" height="80"/>
+  <img src="images/jetbrains.png" alt="jetbrains" width="40" height="40"/>
 </a>
 
 ### Game Engines:
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <img src="images/unity.png" alt="unity" width="40" height="40"/>
 </a>
 
 ### Other:
