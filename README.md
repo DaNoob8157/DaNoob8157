@@ -8,17 +8,21 @@
 ## Featured Projects
 
 **[Boat Man Shooters](https://github.com/DaNoob8157/Boat-Man-Shooters)**:  
-Online multiplayer shooter game | Python | [Check it Out](https://danoob8157.github.io/Boat-Man-Shooters/)
+Online multiplayer shooter game | **Python** | [Check it Out](https://danoob8157.github.io/Boat-Man-Shooters/)
 
 **[Apple Music: Cracked Edition](https://github.com/DaNoob8157/Apple-Music-Cracked-Edition)**:  
-Lightweight web-based Apple Music alternative | Swift | [Download](https://github.com/DaNoob8157/Apple-Music-Cracked-Edition/releases)
+Lightweight web-based Apple Music alternative | **Swift** | [Download](https://github.com/DaNoob8157/Apple-Music-Cracked-Edition/releases)  
+
+**[Messages App Lock for Mac](https://github.com/DaNoob8157/messages-app-lock-mac)**:
+Messages kill script and password protection | **Apple Script** 
 
 **[Wordle Python Edition](https://github.com/DaNoob8157/Wordle-Python-Editon)**:  
- Terminal Wordle with multiple difficulty levels | Python | One of my earliest projects, later uploaded onto GitHub
+Terminal Wordle with multiple difficulty levels | **Python**  
+*One of my **earliest** projects, later uploaded onto GitHub.*  
 
 ---
 
-## 🛠️ Tech Stack
+## Technology Stack
 
 **Languages:**  
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
