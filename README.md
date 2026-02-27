@@ -13,7 +13,7 @@ Online multiplayer shooter game | **Python** | [Check it Out](https://danoob8157
 **[Apple Music: Cracked Edition](https://github.com/DaNoob8157/Apple-Music-Cracked-Edition)**:  
 Lightweight web-based Apple Music alternative | **Swift** | [Download](https://github.com/DaNoob8157/Apple-Music-Cracked-Edition/releases)  
 
-**[Messages App Lock for Mac](https://github.com/DaNoob8157/messages-app-lock-mac)**:
+**[Messages App Lock for Mac](https://github.com/DaNoob8157/messages-app-lock-mac)**:  
 Messages kill script and password protection | **Apple Script** 
 
 **[Wordle Python Edition](https://github.com/DaNoob8157/Wordle-Python-Editon)**:  
